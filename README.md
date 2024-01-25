@@ -1,27 +1,31 @@
 <h2> Hello stranger, you can call me Felski </h2>
-
-<br>
+Sometimes I love, sometimes I hate everything about this
 
 ```javascript
 function whoIam() {
-  const tecnologies = ['js', 'ts', 'java', 'react', 'chackraUI'];
-  tecnologies.forEach(tech => {
-    while (isStillReleasingUpdates(tech)) {
-      return hasSometingToLearn(tech);
+  return {
+    'me' : {
+      'name' : 'Felski',
+      'mother-tongue' : 'pt-br',
+      'know-language' : 'en-us',
+      'current-location' : 'Brazil'
+    },
+    'workplace' : {
+      'company' : 'Philips',
+      'country' : 'Brazil',
+      'position' : 'Software Architect',
+      'tecnologies' : ['Javascript', 'Java', 'PLSQL', 'Git', 'Azure', 'Node']
+    },
+    'likes' : ['Tech', 'Working out', 'Games', 'Hamburgers', 'Combustion cars', 'Outer space', 'Dogs', 'Travel', 'Skydiving', 'Drive', 'Gym' ,'Kart', 'Speed'],
+    'last-played-games' : [], //Maybe can I conect with steam?
+    'today' : {
+      'studing' : ['HTML', 'Javascript', 'Typescript', 'React', 'Chackra UI']
     }
-  })
+  };
 }
-
-function hasSometingToLearn(tech) {
-    console.log('Learning something new about ' + tech);
-}
-
-function isStillReleasingUpdates(tech){
-    if (ff <= 10){
-        ff = 1;
-        return true;
-    }
-}
-
-whoIam();
 ```
+
+Just a averange brazilian man
+
+### Visitor count
+<img src="https://profile-counter.glitch.me/brfelski/count.svg" />

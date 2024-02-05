@@ -7,7 +7,7 @@ function whoIam() {
     'me' : {
       'name' : 'Felski',
       'mother-tongue' : 'pt-br',
-      'know-language' : 'en-us',
+      'know-language' : ['en-us'],
       'current-location' : 'Brazil'
     },
     'workplace' : {
@@ -19,7 +19,7 @@ function whoIam() {
     'likes' : ['Tech', 'Working out', 'Games', 'Hamburgers', 'Combustion cars', 'Outer space', 'Dogs', 'Travel', 'Skydiving', 'Drive', 'Gym' ,'Kart', 'Speed'],
     'last-played-games' : [], //Maybe can I conect with steam?
     'today' : {
-      'studing' : ['HTML', 'Javascript', 'Typescript', 'React', 'Chackra UI']
+      'studing' : ['Typescript', 'React', 'Chackra UI', 'Javascript', 'Formik', 'Yup']
     }
   };
 }

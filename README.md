@@ -7,19 +7,19 @@ function whoIam() {
     'me' : {
       'name' : 'Felski',
       'mother-tongue' : 'pt-br',
-      'know-language' : ['en-us'],
+      'know-languages' : ['pt-br', 'en-us'],
       'current-location' : 'Brazil'
     },
-    'workplace' : {
+    'last-job' : {
       'company' : 'Philips',
       'country' : 'Brazil',
       'position' : 'Software Architect',
-      'tecnologies' : ['Javascript', 'Java', 'PLSQL', 'Git', 'Azure', 'Node']
+      'tecnologies' : ['JS', 'Java', 'PLSQL', 'Git', 'Azure', 'Node']
     },
     'likes' : ['Tech', 'Working out', 'Games', 'Hamburgers', 'Combustion cars', 'Outer space', 'Dogs', 'Travel', 'Skydiving', 'Drive', 'Gym' ,'Kart', 'Speed'],
     'last-played-games' : [], //Maybe can I conect with steam?
     'today' : {
-      'studing' : ['Typescript', 'React', 'Chackra UI', 'Javascript', 'Formik', 'Yup']
+      'studing' : ['TS', 'React', 'Chackra UI', 'JS', 'Formik', 'Yup']
     }
   };
 }
